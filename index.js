@@ -1,3 +1,8 @@
+/*
+@title: Randomly Generated Moon
+@author: John Tan-Aristy
+@snapshot: Moon
+*/
 // welcome to blot!
 // check out this guide to learn how to program in blot
 // https://blot.hackclub.com/editor?guide=start
